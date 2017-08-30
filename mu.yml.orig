@@ -12,4 +12,3 @@ service:
       repo: myuser/banana-service
     build:
       image: aws/codebuild/java:openjdk-8
-
